@@ -1,0 +1,5 @@
+{
+  "name": "SRM Exam Helper - Network Security",
+  "description": "A comprehensive study companion for Computer Networks (21CSC302J) featuring topic checklists, repeated PYQs, an exam countdown, a Pomodoro timer, and an AI tutor powered by Gemini.",
+  "requestFramePermissions": []
+}
